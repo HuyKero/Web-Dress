@@ -1,3 +1,3 @@
-Genz.github.io
+genz.github.io
 
 
